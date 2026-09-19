@@ -17,7 +17,6 @@ def describe_order(order):
             f"{order['prep_time_min']} min prep, "
             f"traffic {order['traffic_level']}, {weather}")
 
-
 def average_speed_kmph(distance_km, delivery_min):
     "Average speed of a delivery, in kilometres per hour."
     return distance_km / (delivery_min / 60)
