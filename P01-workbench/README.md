@@ -101,3 +101,5 @@ this course is built on top of that.
 
 *Open `P01.ipynb` in Jupyter and work through it top to bottom.
 The notebook contains everything in this handout, plus the code.*
+
+I used ChatGPT (OpenAI) as an AI assistance tool while working on this assignment. It was used for understanding the assignment requirements, clarifying concepts, discussing implementation approaches, and debugging/explaining code.
